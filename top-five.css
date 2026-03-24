@@ -1,0 +1,17 @@
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 250;
+  font-style: normal;
+}
+
+body {
+    width: 375px;
+    margin: 20px auto;
+    font-family: cursive;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Pacifico';
+    color: rgb(226, 43, 64);
+}
