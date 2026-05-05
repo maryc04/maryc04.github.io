@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(189, 181, 181);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: rgb(255, 255, 255);
+    font-family: fantasy;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: fantasy;
+}
+p {
+  color: rgb(107, 0, 132);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+.btn {
+  background-color: rgb(224, 71, 155);
+  border-color: rgb(255, 0, 140);
+}
+.text-secondary {
+  color: rgb(107, 0, 132) !important;
+  padding-bottom: 15px;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  font-family: fantasy;
+}
